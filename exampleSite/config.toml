@@ -39,12 +39,12 @@ title = "Hi, I'm Darshan Nagaraj. <br> I help people to create best documentatio
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
-image = "images/hugo-muscot.svg"
+image = ""
 title = "Get the best hugo templates"
 [params.cta.button]
 enable = true
 label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+link = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
