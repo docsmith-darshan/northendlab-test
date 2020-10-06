@@ -34,7 +34,7 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = ""
-image = "images/banner/illustration.svg"
+image = ""
 title = "Hi, I'm Darshan Nagaraj. <br> I help people to create best documentation for their teams"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
